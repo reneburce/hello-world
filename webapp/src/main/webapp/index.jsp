@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Levareit New user Register for DevOps Learning - rene</h1>
-    <p>Please fill in this form to create an account. GUMANA KANA 240 next ansible!!!!!</p>
+    <p>Please fill in this form to create an account. ayos na ang docker 940  </p>
     <hr>
      
     <label for="Name"><b>Enter pangalan</b></label>
